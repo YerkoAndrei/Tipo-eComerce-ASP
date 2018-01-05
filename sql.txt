@@ -1,0 +1,16 @@
+create database ecomerce
+
+create table usuario(
+rut varchar(15) primary key,
+nombre varchar(30),
+apellido varchar (30),
+correo varchar(50),
+direccion varchar(50),
+pass varchar(30),
+perfil int
+)
+create table producto(
+id int identity(1,1) primary key,
+nombre varchar(30),
+precio float
+)

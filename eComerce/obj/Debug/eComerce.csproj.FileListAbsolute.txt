@@ -1,0 +1,10 @@
+E:\ASP .NET\eComerce\eComerce\bin\eComerce.dll
+E:\ASP .NET\eComerce\eComerce\bin\eComerce.pdb
+E:\ASP .NET\eComerce\eComerce\obj\Debug\eComerce.dll
+E:\ASP .NET\eComerce\eComerce\obj\Debug\eComerce.pdb
+G:\ASP .NET\eComerce\eComerce\obj\Debug\ResolveAssemblyReference.cache
+G:\ASP .NET\eComerce\eComerce\obj\Debug\eComerce.dll
+G:\ASP .NET\eComerce\eComerce\bin\eComerce.dll
+G:\ASP .NET\eComerce\eComerce\bin\eComerce.pdb
+G:\ASP .NET\eComerce\eComerce\obj\Debug\eComerce.pdb
+E:\ASP .NET\eComerce\eComerce\obj\Debug\eComerce.csprojResolveAssemblyReference.cache
